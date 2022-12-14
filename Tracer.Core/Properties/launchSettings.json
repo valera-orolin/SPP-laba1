@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Tracer.Core": {
+      "commandName": "Project"
+    },
+    "Профиль 1": {
+      "commandName": "Executable",
+      "executablePath": "D:\\studying\\лабы СПП\\лаба 1\\ex2SPP_lab1_tracer\\Tracer.Example\\Program.cs"
+    }
+  }
+}
