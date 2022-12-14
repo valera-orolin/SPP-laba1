@@ -1,0 +1,15 @@
+D:\studying\лабы СПП\лаба 1\ex2SPP_lab1_tracer\Tracer.Serialization\Tracer.Serialization.Xml\bin\Debug\net6.0\Tracer.Serialization.Xml.deps.json
+D:\studying\лабы СПП\лаба 1\ex2SPP_lab1_tracer\Tracer.Serialization\Tracer.Serialization.Xml\bin\Debug\net6.0\Tracer.Serialization.Xml.dll
+D:\studying\лабы СПП\лаба 1\ex2SPP_lab1_tracer\Tracer.Serialization\Tracer.Serialization.Xml\bin\Debug\net6.0\Tracer.Serialization.Xml.pdb
+D:\studying\лабы СПП\лаба 1\ex2SPP_lab1_tracer\Tracer.Serialization\Tracer.Serialization.Xml\bin\Debug\net6.0\Tracer.Serialization.Abstraction.dll
+D:\studying\лабы СПП\лаба 1\ex2SPP_lab1_tracer\Tracer.Serialization\Tracer.Serialization.Xml\bin\Debug\net6.0\Tracer.Serialization.Abstraction.pdb
+D:\studying\лабы СПП\лаба 1\ex2SPP_lab1_tracer\Tracer.Serialization\Tracer.Serialization.Xml\obj\Debug\net6.0\Tracer.Serialization.Xml.csproj.AssemblyReference.cache
+D:\studying\лабы СПП\лаба 1\ex2SPP_lab1_tracer\Tracer.Serialization\Tracer.Serialization.Xml\obj\Debug\net6.0\Tracer.Serialization.Xml.GeneratedMSBuildEditorConfig.editorconfig
+D:\studying\лабы СПП\лаба 1\ex2SPP_lab1_tracer\Tracer.Serialization\Tracer.Serialization.Xml\obj\Debug\net6.0\Tracer.Serialization.Xml.AssemblyInfoInputs.cache
+D:\studying\лабы СПП\лаба 1\ex2SPP_lab1_tracer\Tracer.Serialization\Tracer.Serialization.Xml\obj\Debug\net6.0\Tracer.Serialization.Xml.AssemblyInfo.cs
+D:\studying\лабы СПП\лаба 1\ex2SPP_lab1_tracer\Tracer.Serialization\Tracer.Serialization.Xml\obj\Debug\net6.0\Tracer.Serialization.Xml.csproj.CoreCompileInputs.cache
+D:\studying\лабы СПП\лаба 1\ex2SPP_lab1_tracer\Tracer.Serialization\Tracer.Serialization.Xml\obj\Debug\net6.0\Tracer.Serialization.Xml.csproj.CopyComplete
+D:\studying\лабы СПП\лаба 1\ex2SPP_lab1_tracer\Tracer.Serialization\Tracer.Serialization.Xml\obj\Debug\net6.0\Tracer.Serialization.Xml.dll
+D:\studying\лабы СПП\лаба 1\ex2SPP_lab1_tracer\Tracer.Serialization\Tracer.Serialization.Xml\obj\Debug\net6.0\refint\Tracer.Serialization.Xml.dll
+D:\studying\лабы СПП\лаба 1\ex2SPP_lab1_tracer\Tracer.Serialization\Tracer.Serialization.Xml\obj\Debug\net6.0\Tracer.Serialization.Xml.pdb
+D:\studying\лабы СПП\лаба 1\ex2SPP_lab1_tracer\Tracer.Serialization\Tracer.Serialization.Xml\obj\Debug\net6.0\ref\Tracer.Serialization.Xml.dll

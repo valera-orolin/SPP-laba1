@@ -1,0 +1,15 @@
+D:\studying\лабы СПП\лаба 1\ex2SPP_lab1_tracer\Tracer.Serialization\Tracer.Serialization.Yaml\bin\Debug\net6.0\Tracer.Serialization.Yaml.deps.json
+D:\studying\лабы СПП\лаба 1\ex2SPP_lab1_tracer\Tracer.Serialization\Tracer.Serialization.Yaml\bin\Debug\net6.0\Tracer.Serialization.Yaml.dll
+D:\studying\лабы СПП\лаба 1\ex2SPP_lab1_tracer\Tracer.Serialization\Tracer.Serialization.Yaml\bin\Debug\net6.0\Tracer.Serialization.Yaml.pdb
+D:\studying\лабы СПП\лаба 1\ex2SPP_lab1_tracer\Tracer.Serialization\Tracer.Serialization.Yaml\bin\Debug\net6.0\Tracer.Serialization.Abstraction.dll
+D:\studying\лабы СПП\лаба 1\ex2SPP_lab1_tracer\Tracer.Serialization\Tracer.Serialization.Yaml\bin\Debug\net6.0\Tracer.Serialization.Abstraction.pdb
+D:\studying\лабы СПП\лаба 1\ex2SPP_lab1_tracer\Tracer.Serialization\Tracer.Serialization.Yaml\obj\Debug\net6.0\Tracer.Serialization.Yaml.csproj.AssemblyReference.cache
+D:\studying\лабы СПП\лаба 1\ex2SPP_lab1_tracer\Tracer.Serialization\Tracer.Serialization.Yaml\obj\Debug\net6.0\Tracer.Serialization.Yaml.GeneratedMSBuildEditorConfig.editorconfig
+D:\studying\лабы СПП\лаба 1\ex2SPP_lab1_tracer\Tracer.Serialization\Tracer.Serialization.Yaml\obj\Debug\net6.0\Tracer.Serialization.Yaml.AssemblyInfoInputs.cache
+D:\studying\лабы СПП\лаба 1\ex2SPP_lab1_tracer\Tracer.Serialization\Tracer.Serialization.Yaml\obj\Debug\net6.0\Tracer.Serialization.Yaml.AssemblyInfo.cs
+D:\studying\лабы СПП\лаба 1\ex2SPP_lab1_tracer\Tracer.Serialization\Tracer.Serialization.Yaml\obj\Debug\net6.0\Tracer.Serialization.Yaml.csproj.CoreCompileInputs.cache
+D:\studying\лабы СПП\лаба 1\ex2SPP_lab1_tracer\Tracer.Serialization\Tracer.Serialization.Yaml\obj\Debug\net6.0\Tracer.Serialization.Yaml.csproj.CopyComplete
+D:\studying\лабы СПП\лаба 1\ex2SPP_lab1_tracer\Tracer.Serialization\Tracer.Serialization.Yaml\obj\Debug\net6.0\Tracer.Serialization.Yaml.dll
+D:\studying\лабы СПП\лаба 1\ex2SPP_lab1_tracer\Tracer.Serialization\Tracer.Serialization.Yaml\obj\Debug\net6.0\refint\Tracer.Serialization.Yaml.dll
+D:\studying\лабы СПП\лаба 1\ex2SPP_lab1_tracer\Tracer.Serialization\Tracer.Serialization.Yaml\obj\Debug\net6.0\Tracer.Serialization.Yaml.pdb
+D:\studying\лабы СПП\лаба 1\ex2SPP_lab1_tracer\Tracer.Serialization\Tracer.Serialization.Yaml\obj\Debug\net6.0\ref\Tracer.Serialization.Yaml.dll
